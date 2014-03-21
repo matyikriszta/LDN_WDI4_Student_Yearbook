@@ -1,0 +1,40 @@
+#container {
+  width: 960px;
+  border: 1px solid black;
+} 
+#nav {
+  padding: fixed;
+}
+
+ul {
+  text-align: right;
+  padding: 21px 0 21px 0;
+}
+
+li {
+  padding: 0 10px 0 10px;
+  display: inline;
+}
+
+#about {
+  max-width: 90%; 
+  height: 300px;
+  margin: auto 0;
+}
+
+#students {
+  max-width: 90%; 
+  height: 300px;
+}
+
+#projects {
+  max-width: 90%; 
+  height: 300px;
+}
+
+#instructors {
+  max-width: 90%; 
+  height: 300px;
+}
+
+
