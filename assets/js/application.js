@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
   $('#aboutlink').click(function() {
     $('html, body').animate({
